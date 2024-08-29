@@ -1,0 +1,1000 @@
+0, clothing
+1, ironing board
+2, sewing
+3, sewing
+4, ironing board
+5, ironing board
+6, ironing board
+7, ironing board
+8, sewing
+9, apron
+10, ironing board
+11, clothing
+12, sewing
+13, sewing
+14, ironing board
+15, sewing
+16, ironing board
+17, clothing
+18, sewing
+19, sewing
+20, ironing board
+21, ironing board
+22, sewing
+23, ironing board
+24, clothing
+25, clothing
+26, sewing
+27, ironing board
+28, ironing board
+29, sewing
+30, ironing board
+31, ironing board
+32, sewing
+33, clothing
+34, clothing
+35, ironing board
+36, ironing board
+37, ironing board
+38, ironing board
+39, ironing board
+40, sewing
+41, sewing
+42, ironing board
+43, sewing
+44, sewing
+45, ironing board
+46, ironing board
+47, clothing
+48, ironing board
+49, ironing board
+50, ironing board
+51, clothing
+52, sewing
+53, clothes
+54, sewing
+55, ironing board
+56, ironing board
+57, ironing board
+58, sewing
+59, sewing
+60, ironing board
+61, apron
+62, clothing
+63, ironing board
+64, ironing board
+65, ironing board
+66, ironing board
+67, ironing board
+68, sewing
+69, sewing
+70, sewing
+71, sewing
+72, sewing
+73, sewing
+74, ironing board
+75, ironing board
+76, ironing board
+77, ironing board
+78, ironing board
+79, clothing
+80, apron
+81, sewing
+82, sewing
+83, ironing board
+84, ironing board
+85, clothing
+86, sewing
+87, ironing board
+88, t shirt
+89, clothing
+90, ironing board
+91, clothes
+92, sewing
+93, apron
+94, sewing
+95, ironing board
+96, sewing
+97, ironing board
+98, ironing board
+99, t shirt and pants
+100, clothing
+101, ironing board
+102, sewing
+103, clothing
+104, ironing board
+105, ironing board
+106, ironing board
+107, sewing
+108, ironing board
+109, ironing board
+110, ironing board
+111, ironing board
+112, ironing board
+113, ironing board
+114, ironing board
+115, ironing board
+116, sewing
+117, ironing board
+118, ironing board
+119, clothing
+120, sewing
+121, ironing board
+122, iron
+123, sewing
+124, sewing
+125, iron
+126, clothes
+127, sewing
+128, ironing board
+129, ironing board
+130, ironing board
+131, ironing board
+132, clothing
+133, clothing
+134, sewing
+135, sewing
+136, sewing
+137, clothing
+138, ironing board
+139, sewing
+140, ironing board
+141, ironing board
+142, ironing board
+143, ironing board
+144, sewing
+145, t shirt
+146, ironing board
+147, shirt
+148, clothing
+149, ironing board
+150, ironing board
+151, sewing
+152, clothing
+153, clothing
+154, sewing
+155, clothing
+156, clothing
+157, ironing board
+158, sewing
+159, clothing
+160, ironing board
+161, ironing board
+162, sewing
+163, sewing
+164, ironing board
+165, sewing
+166, ironing board
+167, clothing
+168, sewing
+169, sewing
+170, ironing board
+171, sewing
+172, sewing
+173, sewing
+174, sewing
+175, sewing
+176, apron
+177, ironing board
+178, t shirt
+179, ironing board
+180, ironing board
+181, sewing
+182, ironing board
+183, ironing board
+184, ironing board
+185, clothing
+186, sewing
+187, sewing
+188, ironing board
+189, sewing
+190, ironing board
+191, ironing board
+192, ironing board
+193, shirt
+194, apron
+195, ironing board
+196, sewing
+197, clothing
+198, ironing board
+199, sewing
+200, t shirt
+201, sewing
+202, clothing
+203, ironing board
+204, ironing board
+205, sewing
+206, sewing
+207, sewing
+208, sewing
+209, ironing board
+210, ironing board
+211, sewing
+212, ironing board
+213, ironing board
+214, clothes
+215, ironing board
+216, ironing board
+217, sewing
+218, ironing board
+219, sewing
+220, clothing
+221, clothing
+222, ironing board
+223, sewing
+224, ironing board
+225, ironing board
+226, sewing
+227, clothing
+228, sewing
+229, sewing
+230, sewing
+231, clothing
+232, ironing board
+233, clothing
+234, sewing
+235, ironing board
+236, sewing
+237, sewing
+238, sewing
+239, sewing
+240, sewing
+241, sewing
+242, ironing board
+243, clothing
+244, shirt
+245, t shirt
+246, sewing
+247, ironing board
+248, ironing board
+249, ironing board
+250, sewing
+251, clothing
+252, iron
+253, ironing board
+254, sewing
+255, sewing
+256, ironing board
+257, sewing
+258, ironing board
+259, ironing board
+260, sewing
+261, ironing board
+262, clothing
+263, sewing
+264, clothing
+265, sewing
+266, ironing board
+267, sewing
+268, sewing
+269, shirt
+270, ironing board
+271, clothing
+272, shirt
+273, ironing board
+274, sewing
+275, shirt
+276, sewing
+277, ironing board
+278, clothing
+279, sewing
+280, clothing
+281, apron
+282, clothing
+283, apron
+284, ironing board
+285, shirt
+286, shirt
+287, clothes
+288, sewing
+289, ironing board
+290, ironing board
+291, ironing board
+292, ironing board
+293, clothes
+294, sewing
+295, clothing
+296, sewing
+297, sewing
+298, clothing
+299, ironing board
+300, ironing board
+301, sewing
+302, shirt
+303, ironing board
+304, ironing board
+305, ironing board
+306, ironing board
+307, sewing
+308, shirt
+309, ironing board
+310, ironing board
+311, sewing
+312, ironing board
+313, ironing board
+314, sewing
+315, sewing
+316, iron
+317, ironing board
+318, sewing
+319, ironing board
+320, clothing
+321, ironing board
+322, apron
+323, clothing
+324, sewing
+325, ironing board
+326, t shirt
+327, ironing board
+328, iron
+329, ironing board
+330, sewing
+331, clothing
+332, ironing board
+333, shirt
+334, ironing board
+335, ironing board
+336, clothes
+337, sewing
+338, sewing
+339, ironing board
+340, iron
+341, sewing
+342, ironing board
+343, iron
+344, sewing
+345, sewing
+346, ironing board
+347, clothes
+348, ironing board
+349, apron
+350, clothing
+351, sewing
+352, sewing
+353, sewing
+354, ironing board
+355, ironing board
+356, sewing
+357, ironing
+358, ironing board
+359, ironing board
+360, ironing board
+361, sewing
+362, clothing
+363, clothes
+364, ironing board
+365, sewing
+366, ironing board
+367, clothing
+368, sewing
+369, clothes
+370, ironing board
+371, clothes
+372, sewing
+373, sewing
+374, ironing board
+375, ironing board
+376, ironing board
+377, ironing board
+378, ironing board
+379, clothing
+380, clothing
+381, ironing board
+382, ironing board
+383, ironing board
+384, sewing
+385, ironing board
+386, ironing board
+387, clothes
+388, sewing
+389, sewing
+390, sewing
+391, ironing board
+392, ironing board
+393, sewing
+394, sewing machine
+395, sewing
+396, sewing
+397, clothing
+398, ironing board
+399, ironing board
+400, ironing board
+401, shirt and tie
+402, ironing board
+403, sewing
+404, sewing
+405, ironing board
+406, sewing
+407, ironing board
+408, ironing board
+409, ironing board
+410, ironing board
+411, sewing
+412, sewing
+413, ironing board
+414, ironing board
+415, shirt
+416, sewing
+417, sewing
+418, sewing
+419, shirt
+420, clothing
+421, ironing board
+422, sewing
+423, clothes
+424, clothing
+425, ironing board
+426, t shirt
+427, sewing
+428, sewing
+429, clothes
+430, ironing board
+431, sewing
+432, clothing
+433, clothes
+434, t shirt
+435, sewing
+436, apron
+437, sewing
+438, shirt
+439, apron
+440, sewing
+441, clothing
+442, sewing
+443, t shirt and jeans
+444, ironing board
+445, sewing
+446, ironing board
+447, ironing board
+448, iron
+449, ironing board
+450, sewing
+451, ironing board
+452, ironing board
+453, sewing
+454, ironing board
+455, ironing board
+456, ironing board
+457, ironing board
+458, ironing board
+459, ironing board
+460, ironing board
+461, sewing
+462, ironing board
+463, ironing board
+464, sewing
+465, clothes
+466, ironing board
+467, sewing
+468, ironing board
+469, sewing
+470, apron
+471, ironing board
+472, sewing
+473, ironing board
+474, sewing
+475, ironing board
+476, ironing board
+477, t shirt
+478, clothes
+479, ironing board
+480, clothing
+481, ironing board
+482, sewing
+483, sewing
+484, ironing board
+485, ironing board
+486, sewing
+487, sewing
+488, ironing board
+489, clothing
+490, ironing board
+491, shirt
+492, ironing board
+493, sewing
+494, apron
+495, ironing board
+496, ironing board
+497, ironing board
+498, ironing board
+499, ironing board
+500, ironing
+501, sewing
+502, sewing
+503, sewing
+504, sewing
+505, clothing
+506, shirt
+507, sewing
+508, sewing
+509, sewing
+510, ironing board
+511, clothing
+512, sewing
+513, clothing
+514, ironing board
+515, ironing board
+516, ironing board
+517, sewing
+518, clothing
+519, sewing
+520, t shirt and pants
+521, sewing
+522, sewing
+523, apron
+524, clothing
+525, sewing
+526, ironing board
+527, ironing board
+528, sewing
+529, ironing board
+530, sewing
+531, clothing
+532, clothing
+533, ironing board
+534, sewing machine
+535, shirt
+536, clothes
+537, sewing
+538, ironing board
+539, sewing
+540, ironing board
+541, ironing board
+542, ironing board
+543, sewing
+544, sewing
+545, sewing
+546, clothes
+547, sewing
+548, ironing board
+549, sewing
+550, ironing board
+551, sewing
+552, ironing board
+553, sewing
+554, ironing board
+555, clothing
+556, t shirt and shorts
+557, ironing board
+558, ironing board
+559, clothing
+560, ironing board
+561, clothing
+562, ironing board
+563, clothing
+564, ironing board
+565, sewing
+566, sewing
+567, sewing
+568, ironing board
+569, sewing
+570, ironing board
+571, ironing board
+572, ironing board
+573, ironing board
+574, sewing
+575, ironing board
+576, clothing
+577, apron
+578, sewing
+579, sewing
+580, ironing board
+581, iron
+582, sewing
+583, ironing board
+584, sewing
+585, ironing board
+586, sewing
+587, clothing
+588, t shirt and jeans
+589, ironing board
+590, sewing
+591, clothing
+592, ironing board
+593, clothing
+594, ironing board
+595, sewing
+596, ironing board
+597, sewing
+598, clothing
+599, sewing
+600, clothing
+601, ironing board
+602, ironing board
+603, shirt
+604, ironing board
+605, sewing
+606, clothing
+607, clothes
+608, sewing
+609, clothing
+610, ironing board
+611, ironing board
+612, ironing board
+613, ironing board
+614, shirt
+615, ironing board
+616, ironing board
+617, sewing
+618, sewing
+619, shirt
+620, sewing
+621, sewing
+622, sewing
+623, apron
+624, ironing board
+625, sewing
+626, ironing board
+627, sewing
+628, clothes
+629, clothing
+630, sewing
+631, clothing
+632, ironing board
+633, ironing board
+634, sewing
+635, ironing board
+636, sewing
+637, ironing board
+638, shirt
+639, shirt
+640, ironing board
+641, ironing board
+642, t shirt and pants
+643, sewing
+644, ironing board
+645, ironing board
+646, ironing board
+647, sewing
+648, sewing
+649, sewing
+650, clothing
+651, ironing board
+652, shirt
+653, sewing
+654, clothing
+655, clothing
+656, clothes
+657, ironing board
+658, sewing
+659, ironing board
+660, clothing
+661, sewing
+662, clothing
+663, sewing
+664, ironing board
+665, ironing board
+666, ironing board
+667, ironing board
+668, ironing board
+669, ironing board
+670, ironing board
+671, sewing
+672, sewing
+673, ironing board
+674, ironing board
+675, clothing
+676, sewing
+677, ironing board
+678, ironing board
+679, ironing board
+680, ironing board
+681, ironing board
+682, ironing board
+683, t shirt and pants
+684, ironing board
+685, ironing board
+686, ironing board
+687, ironing board
+688, clothing
+689, ironing board
+690, sewing
+691, sewing
+692, apron
+693, sewing
+694, t shirt and jeans
+695, sewing
+696, ironing board
+697, t shirt and jeans
+698, ironing board
+699, clothing
+700, ironing board
+701, ironing board
+702, sewing
+703, shirt
+704, shirt
+705, sewing
+706, clothes
+707, ironing board
+708, sewing
+709, clothing
+710, sewing
+711, ironing board
+712, clothes
+713, sewing
+714, sewing
+715, sewing
+716, sewing
+717, ironing board
+718, shirt
+719, ironing board
+720, ironing board
+721, sewing
+722, ironing board
+723, ironing board
+724, ironing board
+725, sewing
+726, sewing
+727, sewing
+728, clothing
+729, sewing
+730, sewing
+731, ironing board
+732, ironing board
+733, ironing board
+734, ironing board
+735, sewing
+736, sewing
+737, sewing
+738, sewing
+739, sewing
+740, sewing
+741, shirt
+742, apron
+743, ironing board
+744, sewing
+745, shirt
+746, ironing board
+747, sewing
+748, ironing board
+749, shirt
+750, ironing board
+751, sewing
+752, ironing board
+753, ironing board
+754, sewing machine
+755, ironing board
+756, ironing board
+757, sewing machine
+758, apron
+759, ironing board
+760, sewing
+761, sewing
+762, sewing
+763, sewing
+764, sewing
+765, shirt
+766, ironing board
+767, clothes
+768, sewing
+769, sewing
+770, ironing board
+771, ironing board
+772, clothing
+773, sewing
+774, ironing board
+775, sewing
+776, sewing
+777, sewing
+778, sewing
+779, sewing
+780, ironing board
+781, sewing
+782, sewing
+783, shirt
+784, ironing board
+785, sewing
+786, sewing
+787, ironing board
+788, ironing board
+789, sewing machine
+790, clothing
+791, ironing board
+792, ironing board
+793, iron
+794, sewing
+795, ironing board
+796, sewing
+797, clothing
+798, sewing
+799, sewing
+800, sewing
+801, ironing board
+802, ironing board
+803, sewing
+804, sewing
+805, sewing
+806, ironing board
+807, ironing board
+808, sewing
+809, ironing board
+810, ironing board
+811, sewing
+812, clothes
+813, iron
+814, sewing
+815, ironing board
+816, ironing
+817, shirt
+818, ironing board
+819, clothes
+820, clothing
+821, ironing board
+822, ironing board
+823, ironing board
+824, shirt
+825, sewing
+826, sewing
+827, ironing board
+828, clothing
+829, ironing board
+830, clothes
+831, sewing
+832, ironing board
+833, t shirt and pants
+834, sewing
+835, sewing
+836, ironing board
+837, ironing board
+838, sewing
+839, sewing
+840, sewing
+841, ironing board
+842, sewing
+843, ironing board
+844, sewing
+845, sewing
+846, sewing
+847, ironing board
+848, sewing
+849, t shirt
+850, sewing
+851, sewing
+852, clothing
+853, ironing board
+854, sewing
+855, clothing
+856, sewing
+857, sewing
+858, sewing
+859, sewing
+860, sewing
+861, ironing board
+862, iron
+863, ironing board
+864, sewing machine
+865, sewing
+866, sewing
+867, ironing board
+868, ironing board
+869, t shirt
+870, sewing
+871, ironing board
+872, sewing
+873, ironing board
+874, ironing board
+875, sewing
+876, ironing board
+877, sewing
+878, ironing board
+879, sewing
+880, clothing
+881, clothing
+882, ironing board
+883, ironing board
+884, ironing board
+885, sewing
+886, ironing board
+887, ironing board
+888, ironing board
+889, clothing
+890, ironing board
+891, ironing board
+892, clothes
+893, sewing
+894, clothes
+895, sewing
+896, clothing
+897, sewing
+898, ironing board
+899, shirt
+900, ironing board
+901, ironing board
+902, ironing board
+903, sewing
+904, sewing
+905, sewing
+906, shirt
+907, sewing
+908, ironing board
+909, ironing board
+910, sewing
+911, ironing board
+912, t shirt
+913, ironing board
+914, sewing
+915, ironing board
+916, ironing board
+917, sewing
+918, sewing
+919, ironing board
+920, ironing board
+921, sewing
+922, ironing board
+923, clothes
+924, ironing board
+925, ironing board
+926, sewing
+927, ironing board
+928, ironing board
+929, ironing board
+930, ironing board
+931, ironing board
+932, sewing
+933, sewing
+934, sewing
+935, ironing board
+936, apron
+937, sewing
+938, sewing
+939, sewing
+940, clothing
+941, ironing board
+942, sewing
+943, clothing
+944, t shirt
+945, ironing board
+946, clothing
+947, ironing board
+948, ironing board
+949, sewing
+950, ironing board
+951, ironing board
+952, clothing
+953, ironing board
+954, ironing board
+955, ironing board
+956, sewing
+957, ironing board
+958, clothing
+959, sewing
+960, ironing board
+961, sewing
+962, ironing board
+963, sewing
+964, sewing machine
+965, sewing
+966, ironing board
+967, ironing board
+968, sewing
+969, ironing board
+970, sewing
+971, shirt
+972, sewing
+973, ironing board
+974, ironing board
+975, ironing board
+976, ironing board
+977, clothing
+978, clothing
+979, ironing board
+980, clothes
+981, sewing
+982, apron
+983, ironing board
+984, clothing
+985, sewing
+986, sewing
+987, ironing board
+988, sewing
+989, shirt
+990, clothes
+991, clothing
+992, clothing
+993, ironing board
+994, clothing
+995, sewing
+996, sewing
+997, ironing board
+998, ironing board
+999, ironing board

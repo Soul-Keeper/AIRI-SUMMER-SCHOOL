@@ -1,0 +1,1000 @@
+0, shirt
+1, apron
+2, t shirt
+3, iron
+4, apron
+5, apron
+6, apron
+7, apron
+8, dress
+9, apron
+10, t shirt
+11, apron
+12, apron
+13, t shirt
+14, iron
+15, shirt
+16, apron
+17, t shirt
+18, apron
+19, apron
+20, skirt
+21, apron
+22, apron
+23, ironing board
+24, dress
+25, apron
+26, cloth
+27, iron
+28, dress
+29, dress
+30, iron
+31, apron
+32, apron
+33, cloth
+34, clothing
+35, apron
+36, apron
+37, apron
+38, iron
+39, iron
+40, dress
+41, cloth
+42, iron
+43, apron
+44, dress
+45, t shirt
+46, shirt
+47, dress
+48, iron
+49, iron
+50, ironing board
+51, apron
+52, apron
+53, apron
+54, skirts
+55, apron
+56, t shirt
+57, bra
+58, apron
+59, apron
+60, iron
+61, apron
+62, dress
+63, iron
+64, iron
+65, ironing board
+66, apron
+67, apron
+68, dress
+69, apron
+70, apron
+71, cloth
+72, shirt
+73, apron
+74, shirt
+75, iron
+76, shirt
+77, iron
+78, apron
+79, dress
+80, apron
+81, cloth
+82, t shirt
+83, apron
+84, bra
+85, cloth
+86, dress
+87, cloth
+88, t shirt
+89, apron
+90, ironing board
+91, apron
+92, apron
+93, apron
+94, skirt
+95, apron
+96, t shirt
+97, t shirt
+98, iron
+99, dress
+100, t shirt
+101, apron
+102, underwear
+103, t shirt
+104, iron
+105, bra
+106, apron
+107, tie
+108, iron
+109, paper
+110, dress
+111, ironing board
+112, wetsuit
+113, shirt
+114, iron
+115, ironing board
+116, dress
+117, skirt
+118, iron
+119, cloth
+120, dress
+121, cloth
+122, iron
+123, dress
+124, apron
+125, shirt
+126, apron
+127, t shirt
+128, apron
+129, apron
+130, iron
+131, ironing board
+132, apron
+133, dress
+134, apron
+135, dress
+136, cloth
+137, dress
+138, apron
+139, apron
+140, iron
+141, dress
+142, iron
+143, bra
+144, apron
+145, t shirt
+146, apron
+147, shirt
+148, shirt
+149, dress
+150, apron
+151, paper
+152, dress
+153, cloth
+154, dress
+155, apron
+156, cloth
+157, apron
+158, apron
+159, bra
+160, iron
+161, iron
+162, dress
+163, dress
+164, dress
+165, shirt
+166, iron
+167, t shirt
+168, apron
+169, pants
+170, iron
+171, cloth
+172, apron
+173, apron
+174, dress
+175, cloth
+176, apron
+177, apron
+178, paper
+179, ironing board
+180, apron
+181, apron
+182, ironing board
+183, skirt
+184, ironing board
+185, apron
+186, apron
+187, t shirt
+188, apron
+189, dress
+190, apron
+191, iron
+192, ironing board
+193, shirt
+194, apron
+195, iron
+196, dress
+197, cloth
+198, apron
+199, apron
+200, t shirt
+201, apron
+202, cloth
+203, ironing board
+204, shirt
+205, dress
+206, apron
+207, dress
+208, dress
+209, dress
+210, apron
+211, skirt
+212, iron
+213, underwear
+214, dress
+215, dress
+216, t shirt
+217, dress
+218, ironing board
+219, apron
+220, dress
+221, cloth
+222, ironing board
+223, shirt
+224, iron
+225, dress
+226, ironing board
+227, dress
+228, t shirt
+229, apron
+230, apron
+231, shirt
+232, apron
+233, t shirt
+234, t shirt
+235, iron
+236, fabric
+237, apron
+238, apron
+239, dress
+240, apron
+241, dress
+242, shirt
+243, dress
+244, apron
+245, t shirt
+246, cloth
+247, iron
+248, iron
+249, t shirt
+250, apron
+251, dress
+252, iron
+253, iron
+254, umbrella
+255, shirt
+256, ironing board
+257, t shirt
+258, iron
+259, ironing board
+260, dress
+261, ironing board
+262, t shirt
+263, apron
+264, apron
+265, cloth
+266, apron
+267, apron
+268, dress
+269, shirt
+270, apron
+271, cloth
+272, tie
+273, t shirt
+274, apron
+275, dress
+276, apron
+277, shirt
+278, dress
+279, apron
+280, umbrella
+281, apron
+282, dress
+283, apron
+284, dress
+285, shirt
+286, shirt
+287, t shirt
+288, apron
+289, apron
+290, shirt
+291, dress
+292, apron
+293, clothing
+294, apron
+295, t shirt
+296, apron
+297, cloth
+298, apron
+299, iron
+300, ironing board
+301, apron
+302, t shirt
+303, ironing board
+304, iron
+305, iron
+306, apron
+307, t shirt
+308, t shirt
+309, ironing board
+310, t shirt
+311, apron
+312, apron
+313, apron
+314, cloth
+315, apron
+316, iron
+317, iron
+318, apron
+319, apron
+320, cloth
+321, ironing board
+322, t shirt
+323, cloth
+324, shirt
+325, iron
+326, apron
+327, dress
+328, apron
+329, dress
+330, t shirt
+331, apron
+332, apron
+333, apron
+334, ironing board
+335, dress
+336, apron
+337, apron
+338, apron
+339, t shirt
+340, iron
+341, t shirt
+342, ironing board
+343, iron
+344, cloth
+345, apron
+346, ironing board
+347, skirt
+348, ironing board
+349, apron
+350, dress
+351, umbrella
+352, dress
+353, dress
+354, shirt
+355, iron
+356, apron
+357, ironing board
+358, bra
+359, t shirt
+360, iron
+361, t shirt
+362, cloth
+363, shirt
+364, t shirt
+365, apron
+366, t shirt
+367, cloth
+368, shirt
+369, clothing
+370, dress
+371, dress
+372, apron
+373, apron
+374, ironing board
+375, apron
+376, ironing board
+377, apron
+378, iron
+379, t shirt
+380, apron
+381, iron
+382, apron
+383, ironing board
+384, apron
+385, iron
+386, dress
+387, clothing
+388, apron
+389, cloth
+390, apron
+391, shirt
+392, ironing board
+393, dress
+394, ironing board
+395, cloth
+396, apron
+397, skirt
+398, shirt
+399, apron
+400, apron
+401, skirt
+402, apron
+403, apron
+404, dress
+405, ironing board
+406, apron
+407, apron
+408, ironing board
+409, shirt
+410, ironing board
+411, apron
+412, apron
+413, ironing board
+414, iron
+415, apron
+416, bra
+417, t shirt
+418, cloth
+419, paper
+420, t shirt
+421, ironing board
+422, apron
+423, apron
+424, apron
+425, t shirt
+426, t shirt
+427, cloth
+428, dress
+429, apron
+430, iron
+431, dress
+432, cloth
+433, cloth
+434, umbrella
+435, apron
+436, apron
+437, apron
+438, apron
+439, apron
+440, apron
+441, umbrella
+442, t shirt
+443, t shirt
+444, apron
+445, apron
+446, apron
+447, shirt
+448, t shirt
+449, apron
+450, shirt
+451, apron
+452, apron
+453, apron
+454, iron
+455, dress
+456, dress
+457, apron
+458, iron
+459, iron
+460, iron
+461, cloth
+462, ironing board
+463, iron
+464, cloth
+465, apron
+466, t shirt
+467, apron
+468, t shirt
+469, dress
+470, t shirt
+471, iron
+472, cloth
+473, apron
+474, t shirt
+475, iron
+476, ironing board
+477, umbrella
+478, apron
+479, apron
+480, cloth
+481, ironing board
+482, cloth
+483, apron
+484, apron
+485, iron
+486, skirt
+487, dress
+488, ironing board
+489, dress
+490, ironing board
+491, shirt
+492, iron
+493, t shirt
+494, apron
+495, shirt
+496, apron
+497, iron
+498, apron
+499, dress
+500, bra
+501, dress
+502, paper
+503, t shirt
+504, apron
+505, shirt
+506, shirt
+507, pants
+508, dress
+509, apron
+510, dress
+511, cloth
+512, apron
+513, cloth
+514, ironing board
+515, apron
+516, ironing board
+517, t shirt
+518, dress
+519, dress
+520, umbrella
+521, apron
+522, apron
+523, apron
+524, t shirt
+525, iron
+526, ironing board
+527, apron
+528, apron
+529, shirt
+530, t shirt
+531, cloth
+532, skirt
+533, ironing board
+534, dress
+535, apron
+536, t shirt
+537, cloth
+538, iron
+539, dress
+540, apron
+541, apron
+542, shirt
+543, apron
+544, apron
+545, t shirt
+546, clothing
+547, t shirt
+548, cloth
+549, skirt
+550, ironing board
+551, apron
+552, dress
+553, dress
+554, shorts
+555, dress
+556, skirt
+557, t shirt
+558, shirt
+559, apron
+560, apron
+561, shirt
+562, cloth
+563, dress
+564, ironing board
+565, apron
+566, t shirt
+567, apron
+568, iron
+569, cloth
+570, t shirt
+571, apron
+572, shirt
+573, ironing board
+574, apron
+575, apron
+576, t shirt
+577, apron
+578, apron
+579, shirt
+580, iron
+581, iron
+582, apron
+583, ironing board
+584, apron
+585, umbrella
+586, cloth
+587, shirt
+588, apron
+589, apron
+590, dress
+591, cloth
+592, t shirt
+593, dress
+594, apron
+595, apron
+596, ironing board
+597, dress
+598, cloth
+599, apron
+600, dress
+601, iron
+602, shirt
+603, shirt
+604, apron
+605, apron
+606, cloth
+607, apron
+608, apron
+609, dress
+610, paper
+611, apron
+612, iron
+613, iron
+614, apron
+615, t shirt
+616, apron
+617, skirt
+618, apron
+619, t shirt
+620, apron
+621, dress
+622, dress
+623, apron
+624, ironing board
+625, apron
+626, iron
+627, apron
+628, dress
+629, skirt
+630, dress
+631, apron
+632, cloth
+633, shirt
+634, apron
+635, iron
+636, apron
+637, iron
+638, shirt
+639, shirt
+640, cloth
+641, t shirt
+642, underwear
+643, cloth
+644, iron
+645, ironing board
+646, iron
+647, apron
+648, dress
+649, dress
+650, dress
+651, iron
+652, shirt
+653, cloth
+654, cloth
+655, dress
+656, pink
+657, apron
+658, cloth
+659, dress
+660, cloth
+661, apron
+662, t shirt
+663, dress
+664, ironing board
+665, t shirt
+666, ironing board
+667, iron
+668, t shirt
+669, ironing board
+670, iron
+671, apron
+672, t shirt
+673, dress
+674, ironing board
+675, skirt
+676, dress
+677, apron
+678, ironing board
+679, t shirt
+680, apron
+681, iron
+682, apron
+683, pants
+684, iron
+685, iron
+686, iron
+687, apron
+688, dress
+689, shirt
+690, apron
+691, dress
+692, apron
+693, apron
+694, dress
+695, apron
+696, dress
+697, skirt
+698, iron
+699, dress
+700, t shirt
+701, shirt
+702, cloth
+703, dress
+704, shirt
+705, dress
+706, cloth
+707, apron
+708, skirt
+709, dress
+710, apron
+711, ironing board
+712, shirt
+713, apron
+714, apron
+715, cloth
+716, t shirt
+717, apron
+718, shirt
+719, ironing board
+720, apron
+721, dress
+722, iron
+723, iron
+724, iron
+725, apron
+726, dress
+727, dress
+728, skirt
+729, apron
+730, paper
+731, iron
+732, ironing board
+733, apron
+734, apron
+735, t shirt
+736, apron
+737, dress
+738, apron
+739, apron
+740, apron
+741, paper
+742, apron
+743, apron
+744, apron
+745, t shirt
+746, iron
+747, apron
+748, dress
+749, apron
+750, shirt
+751, apron
+752, dress
+753, t shirt
+754, apron
+755, dress
+756, ironing board
+757, apron
+758, apron
+759, t shirt
+760, apron
+761, black shirt
+762, apron
+763, cloth
+764, apron
+765, shirt
+766, t shirt
+767, clothing
+768, apron
+769, dress
+770, dress
+771, t shirt
+772, dress
+773, t shirt
+774, apron
+775, dress
+776, apron
+777, apron
+778, t shirt
+779, apron
+780, apron
+781, cloth
+782, t shirt
+783, apron
+784, cloth
+785, apron
+786, apron
+787, iron
+788, dress
+789, skirt
+790, skirt
+791, iron
+792, umbrella
+793, apron
+794, apron
+795, dress
+796, dress
+797, dress
+798, dress
+799, apron
+800, apron
+801, iron
+802, iron
+803, dress
+804, apron
+805, shirt
+806, dress
+807, dress
+808, skirt
+809, iron
+810, pants
+811, cloth
+812, shirt
+813, iron
+814, dress
+815, t shirt
+816, apron
+817, dress
+818, iron
+819, dress
+820, cloth
+821, apron
+822, dress
+823, bra
+824, paper
+825, shirt
+826, cloth
+827, apron
+828, dress
+829, iron
+830, shirt
+831, apron
+832, dress
+833, skirt
+834, apron
+835, skirt
+836, apron
+837, iron
+838, silk
+839, t shirt
+840, dress
+841, ironing board
+842, cloth
+843, ironing board
+844, apron
+845, dress
+846, apron
+847, dress
+848, apron
+849, t shirt
+850, skirt
+851, dress
+852, apron
+853, iron
+854, scissors
+855, dress
+856, apron
+857, shirt
+858, t shirt
+859, apron
+860, pink shirt
+861, ironing board
+862, dress
+863, ironing board
+864, shirt
+865, apron
+866, bag
+867, apron
+868, ironing board
+869, shirt
+870, t shirt
+871, t shirt
+872, dress
+873, shirt
+874, ironing board
+875, dress
+876, iron
+877, apron
+878, ironing board
+879, dress
+880, cloth
+881, dress
+882, dress
+883, ironing board
+884, shirt
+885, apron
+886, dress
+887, apron
+888, iron
+889, dress
+890, iron
+891, apron
+892, apron
+893, skirt
+894, t shirt
+895, cloth
+896, bra
+897, dress
+898, iron
+899, shirt
+900, apron
+901, dress
+902, ironing board
+903, dress
+904, dress
+905, dress
+906, apron
+907, apron
+908, ironing board
+909, apron
+910, apron
+911, cloth
+912, t shirt
+913, t shirt
+914, apron
+915, shirt
+916, t shirt
+917, dress
+918, apron
+919, t shirt
+920, iron
+921, apron
+922, apron
+923, apron
+924, iron
+925, cloth
+926, cloth
+927, ironing board
+928, iron
+929, iron
+930, ironing board
+931, ironing board
+932, apron
+933, skirt
+934, cloth
+935, t shirt
+936, apron
+937, apron
+938, bra
+939, cloth
+940, dress
+941, apron
+942, dress
+943, dress
+944, t shirt
+945, iron
+946, dress
+947, apron
+948, iron
+949, apron
+950, t shirt
+951, ironing board
+952, t shirt
+953, iron
+954, shirt
+955, apron
+956, dress
+957, shirt
+958, dress
+959, apron
+960, ironing board
+961, apron
+962, dress
+963, shirt
+964, black shirt
+965, dress
+966, apron
+967, ironing
+968, apron
+969, ironing board
+970, t shirt
+971, shirt
+972, skirt
+973, apron
+974, iron
+975, dress
+976, apron
+977, dress
+978, cloth
+979, iron
+980, dress
+981, apron
+982, apron
+983, ironing board
+984, apron
+985, apron
+986, apron
+987, iron
+988, skirt
+989, shirt
+990, apron
+991, apron
+992, dress
+993, ironing board
+994, skirt
+995, apron
+996, apron
+997, shirt
+998, ironing board
+999, cloth
